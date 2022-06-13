@@ -1,5 +1,8 @@
 {
   "server": {
+    "1.18.2" : {
+      "url" : "https://launcher.mojang.com/v1/objects/c8f83c5655308435b3dcf03c06d9fe8740a77469/server.jar"
+    },
     "1.18.1" : {
       "url" : "https://launcher.mojang.com/v1/objects/3cf24a8694aca6267883b17d934efacc5e44440d/server.jar"
     },
