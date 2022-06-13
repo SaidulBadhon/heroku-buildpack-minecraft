@@ -29,8 +29,7 @@
     },
     "MINECRAFT_VERSION": {
       "description": "MC Var",
-      "required": false,
-      "value": "1.18.2"
+      "required": false
     }
   },
   "buildpacks": [
