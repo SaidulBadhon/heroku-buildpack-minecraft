@@ -1,4 +1,4 @@
-# Heroku Minecraft Buildpack 222222
+# Heroku Minecraft Buildpack Xd
 
 This is a [Heroku Buildpack](https://devcenter.heroku.com/articles/buildpacks)
 for running a Minecraft server in a [dyno](https://devcenter.heroku.com/articles/dynos).
