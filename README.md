@@ -1,4 +1,4 @@
-# Heroku Minecraft Buildpack Saidul Badhon
+# Heroku Minecraft Buildpack Saidul Badhon 2
 
 This is a [Heroku Buildpack](https://devcenter.heroku.com/articles/buildpacks)
 for running a Minecraft server in a [dyno](https://devcenter.heroku.com/articles/dynos).
